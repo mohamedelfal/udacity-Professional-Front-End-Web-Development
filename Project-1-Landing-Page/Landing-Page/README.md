@@ -6,7 +6,7 @@
 ## Table of Contents
 
 * [Architecture](#architecture)
-* [ project description](# project description)
+* [ project description](#project description)
 * [Requirements](#requirements)
 * [Instructions](#instructions)
 * [Resources](#resources)
@@ -22,7 +22,7 @@ js
 README.md
 ```
 
-##  project description
+## project description
 
 The Landing Page [HTML page] consists of:
 
