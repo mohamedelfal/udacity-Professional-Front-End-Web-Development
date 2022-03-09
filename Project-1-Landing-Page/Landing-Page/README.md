@@ -6,7 +6,7 @@
 ## Table of Contents
 
 * [Architecture](#architecture)
-* [ project description](#project description)
+* [project description](#project-description)
 * [Requirements](#requirements)
 * [Instructions](#instructions)
 * [Resources](#resources)
