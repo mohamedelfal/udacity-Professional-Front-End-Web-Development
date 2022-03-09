@@ -4,7 +4,8 @@ This project requires you to build a multi-section landing page, with a dynamica
 
 
 ## Project Rubric
-Your project will be evaluated by a Udacity code reviewer according to the Landing Page [project rubric](./Landing-Page-rubric.pdf). Please review for detailed project requirements.
+Your project will be evaluated by a Udacity code reviewer according to the Landing Page [project rubric](./Landing-Page-rubric.md) ( *download [pdf](./Landing-Page-rubric.pdf)* ).<br>
+Please review for detailed project requirements.
 
 
 ## Get the Starter Code
