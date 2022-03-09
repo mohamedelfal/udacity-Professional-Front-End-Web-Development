@@ -14,7 +14,7 @@ PROJECT SPECIFICATION
 |:------ |:------|
 | Navigation           | Navigation is built dynamically as an unordered list. Start with empty  `ul`  and dynamically build navigation using  `Append` ,  `appendChild` , and `innerHTML` .|
 | Section Active State | It should be clear which section is being viewed while scrolling through the page. <br>Tip: Detect the element location relative to the viewport using `.getBoundingClientRect()` built- in function. | 
-|Scroll to Anchor      | When clicking an item from the navigation menu, the link should scroll to the appropriate section.<br> You can use the following methods to fulêll this criterion:<br> Use addEventListener('click',....) to listen to the click event. <br> Use preventDefault() as if there is a default event occurring we need to stop that.<br> There are several javascript methods for scrolling, scroll(), scrollBy(), and scrollIntoView() are all acceptable.<br> A smooth scrolling behavior is expected in the project. |
+|Scroll to Anchor      | When clicking an item from the navigation menu, the link should scroll to the appropriate section.<br> You can use the following methods to fulêll this criterion:<br> Use addEventListener('click',....) to listen to the click event. <br> Use preventDefault() as if there is a default event occurring we need to stop that.<br> There are several javascript methods for scrolling, `scroll()`, `scrollBy()`, and `scrollIntoView()` are all acceptable.<br> A smooth scrolling behavior is expected in the project. |
 
 ## Documentation
 
