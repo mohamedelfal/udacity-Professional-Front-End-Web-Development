@@ -8,4 +8,4 @@
  * [Project Submission](./Project-1-Landing-Page/Project-Landing-Page.md)
 ## The Solution
  * [Landing Page WebPage](https://mohamedelfal.github.io/udacity-Professional-Front-End-Web-Development/Project-1-Landing-Page/Landing-Page/index.html)
- * [Landing Page Source Code](./Project-1-Landing-Page/Landing-Page/)
+ * [Landing Page Source Code](./Landing-Page/)
