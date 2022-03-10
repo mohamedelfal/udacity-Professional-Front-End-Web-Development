@@ -1,6 +1,8 @@
 # Udacity Professional Front End Web Development Projects
- # Project[1]: Landing Page
+ # Moudel 3 *[JavaScript & The DOM]* Project
+ ## Landing Page
 Build a landing page that uses JavaScript to create an interactive navigational experience for the user.
+ ## [ the Project starter code ](https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page)
   *  [Project Introduction](./Project-1-Landing-Page/1-Project-Introduction.md)
   *  [Getting Started](./Project-1-Landing-Page/2-Getting-Started.md)
   *  [Development Strategy](./Project-1-Landing-Page/3-Development-Strategy.md)
