@@ -19,6 +19,7 @@
    * [APIs and Routes](#APIs-and-Routes)
    * [APIs and Routes](#APIs-and-Routes)
 * [Project MarkDown Files](#MarkDown-Files)
+* [Starter Code](#Starter-Code)
 # Getting Started
 ## Introduction<br>
 This project requires you to create an asynchronous web app that uses Web API and user data to
@@ -146,6 +147,7 @@ Once you've met all of the rubric requirements, you can submit your project as e
  * [1-Getting-Started.md](./1-Getting-Started.md)
  * [2-Development-Strategy.md](./2-Development-Strategy.md)
  * [3-Weather-Journal App.md](./3-Weather-Journal-App.md)
- * [4-project-rubric-Weather-Journal-App.md](./4-project-rubric-Weather-Journal-App.md)
-
+ * [4-project-rubric-Weather-Journal-App.md](./4-project-rubric-Weather-Journal-App.md) <br>
+# Starter Code
+ * [[Starter Code](./Starter-Code/weather-journal-app.zip)
 
