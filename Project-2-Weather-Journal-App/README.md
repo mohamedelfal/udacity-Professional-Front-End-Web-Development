@@ -149,5 +149,5 @@ Once you've met all of the rubric requirements, you can submit your project as e
  * [3-Weather-Journal App.md](./3-Weather-Journal-App.md)
  * [4-project-rubric-Weather-Journal-App.md](./4-project-rubric-Weather-Journal-App.md) <br>
 # Starter Code
- * [[Starter Code](./Starter-Code/weather-journal-app.zip)
+ * [Starter Code](./Starter-Code/weather-journal-app.zip)
 
