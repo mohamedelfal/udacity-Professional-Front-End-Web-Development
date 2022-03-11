@@ -1,0 +1,40 @@
+<!DOCTYPE >
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="keywords" content="weatherapp, feelings , temperature">
+    <meta name="description" content="weatherapp">
+    <meta name="author" content="Nourhan Nabil">
+    <title>Weather Journal</title>
+    <link href="https://fonts.googleapis.com/css?family=Oswald:400,600,700|Ranga:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+ <body>
+  <div id = "app">
+   <h1 class ="holder headline"> Weather Journal App </h1>
+    <div class ="holder zip">
+      <label for="zip">Enter Zipcode here</label>
+     <input type="text" id="zip" placeholder="enter zip code here" required>
+     <div id = "error"></div> 
+    </div>
+  <div class ="holder feel">
+    <label for="feelings">How are you feeling today?</label>
+    <textarea class= "myInput" id="feelings" placeholder="Enter your feelings here"  required></textarea>
+    <button id="generate" type ="submit"> Submit </button>
+  </div>
+  <div class ="holder entry">
+    <div class = "title">Most Recent Entry</div>
+      <div id = "entryHolder">
+        <div id = "date"></div> 
+        <div id = "city"></div>
+        <div id = "country"></div>
+        <div id = "temp"></div>
+        <div id = "content"></div>
+      </div>
+    </div>
+  </div>
+<script src="JS/app.js" type="text/javascript"></script>
+</body>
+</html>
