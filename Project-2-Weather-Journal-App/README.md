@@ -17,7 +17,7 @@
   * [Weather Journal App Rubric](#Weather-Journal-App-Rubric)
    * [Project Environment Setup](#Project-Environment-Setup)
    * [APIs and Routes](#APIs-and-Routes)
-   * [APIs and Routes](#APIs-and-Routes)
+
 * [Project MarkDown Files](#MarkDown-Files)
 * [Starter Code](#Starter-Code)
 # Getting Started
