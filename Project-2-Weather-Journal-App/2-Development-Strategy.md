@@ -2,14 +2,14 @@
 For this project, you will be writing most of your code in two files: `server.js` and `website/app.js`. <br> Note that it's very important that you plan your project before you start writing any code! Break your project down into small pieces of work and strategize your approach to each one. With these bite-sized amounts, it'll be easier to debug and fix any issues that appear.
 
 # Testing
-Testing your code as you go is an excellent development approach. If you would like to write and run tests for parts of your implementation code, you can use the file tests.js to see examples of test code you might write along the development path.
+Testing your code as you go is an excellent development approach. <br>If you would like to write and run tests for parts of your implementation code, you can use the file tests.js to see examples of test code you might write along the development path.
 Feel free to implement your own design workflow, but if you get stuck -- here is a walkthrough to get you up and running!
- * 1-Start by setting up your project environment. Make sure Node is installed from the terminal. Install the packages Express, Body-Parser, and Cors from the terminal and them include them your 
+1 * Start by setting up your project environment. Make sure Node is installed from the terminal. Install the packages Express, Body-Parser, and Cors from the terminal and them include them your 
 `server.js` file.
   * Create a server running on the port of your choosing
   * Add a `console.log()` to the server callback function, and test that your server is running using Node in the terminal to run the file `server.js`
- * 2-Add a GET route that returns the *`projectData`* object in your server code Then, add a POST route that adds incoming data to `projectData`.
-  * The POST route should anticipate receiving three pieces of data from the request body
+2 * Add a GET route that returns the *`projectData`* object in your server code Then, add a POST route that adds incoming data to `projectData`.
+   * The POST route should anticipate receiving three pieces of data from the request body
     * temperature
     * date
     * user response
