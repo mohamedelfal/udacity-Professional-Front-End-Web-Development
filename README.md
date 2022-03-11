@@ -1,9 +1,9 @@
 # Udacity Professional Front End Web Development Projects
 ## Table of Contents
-* [Moudel 3 *[JavaScript & The DOM]* Project](#Moudel-3-*[JavaScript-&-The-DOM]*-Project)
+* [Moudel 3 *[JavaScript & The DOM]* Project](#Moudel-3-[JavaScript-&-The-DOM]-Project)
 * [Landing Page](#Landing-Page)
 * [Landing Page Solution](#Landing-Page-Solution)
-* [Moudel 4 *[Web APIs and Asynchronous Applications]* Project](#Moudel-4-*[Web-APIs-and-Asynchronous-Applications]*-Project)
+* [Moudel 4 *[Web APIs and Asynchronous Applications]* Project](#Moudel-4-[Web-APIs-and-Asynchronous-Applications]-Project)
 * [Weather Journal App](#Weather-Journal-App)
 * [Weather Journal App Solution](#Weather-Journal-App-Solution)
 
