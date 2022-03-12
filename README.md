@@ -9,7 +9,7 @@
 
  >># Moudel 3 *[JavaScript & The DOM]* Project
   >>>## Landing Page
-  >>>*  [the Project starter code](https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page)<br>
+  >>>*  the Project starter code[here](./Project-1-Landing-Page/Starter-Code/) or [here](https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page)<br>
  >>>Build a landing page that uses JavaScript to create an interactive navigational experience for the user.
    >>>>*  [Project Introduction](./Project-1-Landing-Page/1-Project-Introduction.md)
    >>>>*  [Getting Started](./Project-1-Landing-Page/2-Getting-Started.md)
@@ -27,7 +27,7 @@
 <br><br><br><br>
  >># Moudel 4 *[Web APIs and Asynchronous Applications]* Project
   >>>## Weather Journal App
-  >>>* [the Project starter code](https://github.com/udacity/fend/tree/refresh-2019/projects/weather-journal-app)<br>
+  >>>* the Project starter code[here](./Project-2-Weather-Journal-App/Starter-Code/) or [here](https://github.com/udacity/fend/tree/refresh-2019/projects/weather-journal-app)<br>
   >>>This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI for a Weather-Journal App.
    >>>>*  [Getting Started](./Project-2-Weather-Journal-App/1-Getting-Started.md)
    >>>>*  [Development Strategy](./Project-2-Weather-Journal-App/2-Development-Strategy.md)
