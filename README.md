@@ -6,6 +6,7 @@
 * [Moudel 4 *[Web APIs and Asynchronous Applications]* Project](#Weather-Journal-App)
 * [Weather Journal App](#Weather-Journal-App)
 * [Weather Journal App Solution](#Weather-Journal-App-Solution)
+* [GRADUATED](#GRADUATED)
 
  >># Moudel 3 *[JavaScript & The DOM]* Project
   >>>## Landing Page
@@ -38,3 +39,6 @@
    >>>* Weather Journal App [*Zip File*](./Project-2-Weather-Journal-App/Weather-Journal-App/Weather-Journal-App-Project-master.zip)
    >>>>* [README](./Project-2-Weather-Journal-App/Weather-Journal-App/README.md)
   
+
+# [GRADUATED](https://confirm.udacity.com/2SUPGAPR)
+[![GRADUATED](./images/udacity.jpg)](https://confirm.udacity.com/2SUPGAPR)
