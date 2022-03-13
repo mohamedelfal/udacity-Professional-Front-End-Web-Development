@@ -1,5 +1,7 @@
-# [Professional Front End Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)<br>by [Udacity](https://www.udacity.com/)[![logo](./images/logo.min.svg)](https://www.udacity.com/)
+# [Professional Front End Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)<br>Nanodegree program by [Udacity](https://www.udacity.com/)[![logo](./images/logo.min.svg)](https://www.udacity.com/)<br>
+Learn how to build high quality websites and dynamic applications to create stunning user experiences for the web.
 ## Table of Contents
+* [SYLLABUS](#SYLLABUS)
 * [Moudel 3 *[JavaScript & The DOM]* Project](#Landing-Page)
 * [Landing Page](#Landing-Page)
 * [Landing Page Solution](#Landing-Page-Solution)
@@ -7,6 +9,10 @@
 * [Weather Journal App](#Weather-Journal-App)
 * [Weather Journal App Solution](#Weather-Journal-App-Solution)
 * [GRADUATED](#GRADUATED)
+
+# SYLLABUS 
+The goal of the Udacity NANODEGREE PROGRAM:[Professional Front End Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) is to equip learners with the unique skills they need to build and develop a variety of websites and applications. Graduates of this Nanodegree program will be able to construct responsive websites using CSS, Flexbox and CSS Grid, develop interactive websites and UI (User Interface) applications using JavaScript and HTML, and connect a web application to backend server data using JavaScript. Students will also build competency automating application build and deployment using Webpack and improving offline performance of websites using Service Worker.
+
 
  >># Moudel 3 *[JavaScript & The DOM]* Project
   >>>## Landing Page
