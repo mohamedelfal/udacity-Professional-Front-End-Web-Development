@@ -1,6 +1,4 @@
-# Landing Page Project
-
-### Future Work is Digital (fwd)- Professional Front-End Web Development Track - first project
+# Landing Page Project Solution
 
 
 ## Table of Contents
