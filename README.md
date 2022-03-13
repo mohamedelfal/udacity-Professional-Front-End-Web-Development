@@ -1,5 +1,4 @@
-# [Professional Front End Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)<br>
-by [Udacity](https://www.udacity.com/)
+# [Professional Front End Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)<br>by [Udacity](https://www.udacity.com/)[![logo](./images/logo.min.svg)](https://www.udacity.com/)
 ## Table of Contents
 * [Moudel 3 *[JavaScript & The DOM]* Project](#Landing-Page)
 * [Landing Page](#Landing-Page)
